@@ -5,7 +5,7 @@ Aniruddh Chauhan, aniruddh2002@vt.edu
 Neil Baptiste, neiljb20@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="[https://magicmirror.builders/](https://github.com/joeesser1842/obdh)" >https://github.com/joeesser1842/obdh</a>
 
 ## Photo
 ![OBDH 3D ISO](images/obdh_v2_3d_iso.png)
