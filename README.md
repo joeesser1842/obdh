@@ -23,7 +23,7 @@ This is the On-Board Data Handling module of the inspireFly Cubesat.
 The main goal of On Board Data Handling, a.k.a. OBDH, is to manage the cubesat's health information while in space, and determine the next state of operation it should enter.
 
 ## Educational Value Added
-This project will provide students the oppurtunity to learn schematic design, PCB board design, how to perform basic and advanced soldering, and a deeper insight into space electronics design.
+This project will give students the oppurtunity to learn how to construct a system of IC's that all communicate with eachother. This process will include schematic design, PCB design, and advanced soldering to construct the physical network. It will also include extensive amounts of embedded system programming to ensure the successful operation of all the different integrated circuits.
 
 ## Tasks
 1. Update the schematic with instock parts <br>
