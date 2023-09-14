@@ -1,6 +1,7 @@
 
 ### Members
 Joe Esser, Electrical Engineering Student (2024), joeesser@vt.edu <br>
+Tim McEvoy, Aerospace Engineering Student (2025), timothymcevoy@vt.edu <br>
 Aniruddh Chauhan, aniruddh2002@vt.edu <br>
 Neil Baptiste, neiljb20@vt.edu <br>
 
@@ -19,6 +20,8 @@ In Progress
 
 ## Project Overview
 This is the On-Board Data Handling module of the inspireFly Cubesat.
+
+"inspireFly" is a student led Cubesat design team.
 
 The main goal of On Board Data Handling, a.k.a. OBDH, is to manage the cubesat's health information while in space, and determine the next state of operation it should enter.
 
